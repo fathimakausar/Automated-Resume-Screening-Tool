@@ -1,0 +1,6 @@
+{
+  "title": "Junior Data Analyst (Python)",
+  "must_have": ["python", "pandas", "sql", "excel"],
+  "nice_to_have": ["power bi", "tableau", "matplotlib", "statistics", "git"],
+  "min_exp_years": 2
+}
