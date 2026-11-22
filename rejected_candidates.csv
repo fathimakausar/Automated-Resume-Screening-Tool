@@ -1,0 +1,7 @@
+rank,candidate,file,email,score,text_similarity,must_have_coverage,matched_skills,missing_must_have,years_experience,decision,reason
+3,Imran Khan,imran_khan.txt,imran.khan@example.com,59.3,0.204,4/4,"excel, git, pandas, power bi, python, sql, statistics, tableau",None,0.0,REJECT,Experience 0 yrs < required 2; Possible keyword stuffing
+4,Divya Patel,divya_patel.pdf,divya.patel@example.com,52.8,0.178,2/4,"communication, data visualization, excel, power bi, sql, statistics, tableau","python, pandas",5.0,REJECT,"Missing must-have: python, pandas"
+5,Meera Nair,meera_nair.txt,meera.nair@example.com,52.6,0.149,4/4,"excel, matplotlib, pandas, python, sql",None,0.5,REJECT,Experience 0.5 yrs < required 2
+6,Rohan Das,rohan_das.pdf,rohan.das@example.com,38.0,0.044,2/4,"aws, django, docker, flask, git, linux, python, sql","pandas, excel",3.0,REJECT,"Missing must-have: pandas, excel"
+7,Karthik Raman,karthik_raman.docx,karthik.raman@example.com,27.2,0.019,1/4,"git, html/css, java, javascript, react, spring, sql","python, pandas, excel",5.0,REJECT,"Missing must-have: python, pandas, excel"
+8,Priya Sharma,priya_sharma.txt,priya.sharma@example.com,25.4,0.021,1/4,"communication, excel, recruitment","python, pandas, sql",4.0,REJECT,"Missing must-have: python, pandas, sql"

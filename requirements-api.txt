@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pandas
+numpy
+scikit-learn
+pdfplumber
+python-docx
+matplotlib
+# optional, for SIMILARITY_BACKEND=embeddings:
+# sentence-transformers

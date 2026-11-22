@@ -1,0 +1,3 @@
+rank,candidate,file,email,score,text_similarity,must_have_coverage,matched_skills,missing_must_have,years_experience,decision,reason
+1,Aarav Mehta,aarav_mehta.pdf,aarav.mehta@example.com,77.3,0.241,4/4,"data visualization, excel, git, numpy, pandas, power bi, python, sql, statistics, tableau",None,3.0,SHORTLIST,Meets all must-have skills and experience
+2,Sneha Iyer,sneha_iyer.docx,sneha.iyer@example.com,71.9,0.224,4/4,"communication, data visualization, excel, git, machine learning, matplotlib, numpy, pandas, python, sql",None,4.0,SHORTLIST,Meets all must-have skills and experience

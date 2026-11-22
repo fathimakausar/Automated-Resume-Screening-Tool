@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+pdfplumber
+python-docx
+matplotlib
+reportlab
+streamlit
+fastapi
+uvicorn[standard]
+python-multipart

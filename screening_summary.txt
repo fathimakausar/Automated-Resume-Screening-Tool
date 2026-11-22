@@ -1,0 +1,16 @@
+RESUME SCREENING REPORT - Junior Data Analyst (Python)
+============================================================
+Total resumes screened : 8
+Shortlisted            : 2
+Rejected               : 6
+
+RANKING
+------------------------------------------------------------
+#1 Aarav Mehta         77.3/100  SHORTLIST | Meets all must-have skills and experience
+#2 Sneha Iyer          71.9/100  SHORTLIST | Meets all must-have skills and experience
+#3 Imran Khan          59.3/100  REJECT    | Experience 0 yrs < required 2; Possible keyword stuffing
+#4 Divya Patel         52.8/100  REJECT    | Missing must-have: python, pandas
+#5 Meera Nair          52.6/100  REJECT    | Experience 0.5 yrs < required 2
+#6 Rohan Das           38.0/100  REJECT    | Missing must-have: pandas, excel
+#7 Karthik Raman       27.2/100  REJECT    | Missing must-have: python, pandas, excel
+#8 Priya Sharma        25.4/100  REJECT    | Missing must-have: python, pandas, sql

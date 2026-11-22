@@ -1,0 +1,7 @@
+Labelled resumes     : 8
+ROC-AUC              : 0.867
+PR-AUC               : 0.867
+Top-3 precision      : 0.667
+Shortlist precision  : 1.000
+Shortlist recall     : 0.667
+Sanity: every candidate missing a must-have shows a warning -> True
